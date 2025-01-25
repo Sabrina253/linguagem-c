@@ -32,7 +32,7 @@ int main() {
                 printf("Consulta de Saldo\n\n");
                 printf("Nome: %s", nome);
                 printf("Numero da conta: %d\n", numero_conta);
-                printf("Saldo disponível: R$ %.2f\n", saldo);
+                printf("Saldo disponÃ­vel: R$ %.2f\n", saldo);
                 printf("\nPressione qualquer tecla para continuar...");
                 getch();
                 break;
